@@ -9,8 +9,7 @@ Built from scratch using HTML, CSS, and a bit of JavaScript to practice layout s
 
 🎯 Project Overview
 
-This project is a fully responsive replica of the Treact marketing template.
-It was created to practice:
+This project is a fully responsive replica of the Treact marketing template. It was created to practice:
 
 Modern landing page layout
 
@@ -22,7 +21,7 @@ Responsive design
 
 Clean and organized CSS
 
-Typography, spacing, and branding
+Typography & spacing
 
 🛠️ Tech Stack
 
@@ -30,60 +29,50 @@ HTML5
 
 CSS3
 
-JavaScript (minimal)
+JavaScript
 
-GitHub Pages (deployment)
+GitHub Pages
 
 ✨ Features
 
-Hero section with call-to-action
+Hero section
 
 Features grid
 
-“How it works” steps
+Steps section
 
-Pricing plans
+Pricing section
 
-Testimonial section
+Testimonial
 
-Footer with branding
-
-Fully responsive across all devices
+Responsive design
 
 📚 What I Learned
 
-Building a structured landing page from scratch
+Building a structured landing page
 
-Using Flexbox and Grid effectively
+Using Flexbox and Grid
 
-How to style reusable sections
+Reusable components
 
-Responsive design best practices
+Responsive design techniques
 
-Deploying projects with GitHub Pages
-
-Improving visual hierarchy & UI consistency
+Deploying with GitHub Pages
 
 🚧 Future Improvements
 
-Here are enhancements I plan to add as I continue learning:
+Dark/light mode
 
-Dark / Light mode toggle
+Page animations
 
-Smooth animations and scroll effects
+More breakpoints
 
-More advanced mobile breakpoints
+SEO improvements
 
-Refactoring for cleaner, reusable CSS
+React version
 
-Adding interactivity with JavaScript
-
-Improving accessibility (ARIA labels, contrast, keyboard support)
-
-Converting this project into a full React version
-
-Adding basic SEO optimization
+Accessibility upgrades
 
 🤝 Acknowledgements
 
-Inspired by the Treact UI template and created as part of the Frontend Simplified Bootcamp.
+Inspired by the Treact template for the Frontend Simplified Bootcamp.
